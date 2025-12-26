@@ -68,7 +68,7 @@
   margin-bottom: 20px;
   border-left: 4px solid #ef5350;
 ">
-<h3 style="color: #ef5350; margin-top: 0;">🛠 Challenges Faced</h3>
+<h3 style="color: #ef5350; margin-top: 0;"> Challenges Faced</h3>
 <ul>
 <li><strong>Missing Data</strong>: Age (263), Cabin (1014), Embarked (2)</li>
 <li><strong>Sparse Cabin Data</strong> – Engineered <code>Deck</code> feature</li>
